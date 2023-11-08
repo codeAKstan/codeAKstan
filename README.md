@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeAKstan
 - 👀 I’m a web developer
-- 🌱 I’m currently learning software engineering with ALX_AFRICA
+- 🌱 Software engineer @ALX_AFRICA
 - 📫 Reach me on boystanismoses@gmail.com
 
 <!---
