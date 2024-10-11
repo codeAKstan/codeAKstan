@@ -12,6 +12,13 @@ Graduating student from the ALX Software Engineering Program, passionate about b
 - **StudentHub** - A platform for students to find accommodations, buy, and sell items (🚧 _In Development_)  
 - **Quiz-it** - A quiz platform where users earn rewards for completing quizzes  (🚧 _In Development_)
 - More projects on [GitHub](https://github.com/codeAKstan?tab=repositories)
+
+---
+  ### **CERTIFICATIONS**  
+- **ALX Software Engineering Program (Backend Specialization)** – ALX, October 2024  
+  [Certificate Validation Link](https://intranet.alxswe.com/certificates/EzrMcSJBYm)
+
+---
   
 💻 **Tech Stack:**  
 - **Languages:**  
