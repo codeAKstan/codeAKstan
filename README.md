@@ -1,61 +1,52 @@
-![Header Image](https://github.com/codeAKstan/codeAKstan/blob/main/codeAKstan.png)
+# 👨‍💻 **[Obumneme Anigbo - codeAkstan]** — _Backend Developer Enthusiast_
 
-# Hi there, I'm [codeAKstan] 👋
+[![GitHub followers](https://img.shields.io/github/followers/codeAKstan?label=Follow%20me&style=social)](https://github.com/codeAKstan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codeAKstan)](https://www.linkedin.com/in/codeAKstan)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/codeakstan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-yellowgreen)](https://codeakstan.github.io/)
+  
+**Hello, I'm [codeAKstan]!**  
+Graduating student from the ALX Software Engineering Program, passionate about building robust backend systems and solving complex problems.  
+  
+🌱 **Currently working on:**  
+- **StudentHub** - A platform for students to find accommodations, buy, and sell items (🚧 _In Development_)  
+- **Quiz-it** - A quiz platform where users earn rewards for completing quizzes  (🚧 _In Development_)
+- More projects on [GitHub](https://github.com/codeAKstan?tab=repositories)
+  
+💻 **Tech Stack:**  
+- **Languages:**  
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  
+- **Frameworks and Libraries:**  
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  
+⚙️ **Tools & Technologies:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
-
-## About Me
-
-I'm a web developer  with a passion for software engineering. I specialize in back and front-end development.
-
-- 🔭 I’m currently working on [StudyPortal](https://kmmadu.github.io/StudyPortal/index.html)
-- 🌱 I’m currently learning software enginnering at [ALX](https://www.alxafrica.com/)
-- 👯 I’m looking to collaborate on open-source projects 
-- 📫 How to reach me: [boystanismoses@gmail.com]
-- 😄 Pronouns: [He/him]
-- ⚡ Fun fact: you have to find out
-
-## Skills
-
-![Skill 1](https://img.shields.io/badge/-HTML5-000?&logo=html5) ![Skill 2](https://img.shields.io/badge/-CSS-000?&logo=css3) ![Skill 3](https://img.shields.io/badge/-Javascript-000?&logo=javascript)  
-![Skill 4](https://img.shields.io/badge/-Python-000?&logo=python) ![Skill 5](https://img.shields.io/badge/-Shell-000?&logo=shell) 
-
-## 📈 Contribution Stats
-![codeakstan's Contribution Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeAKstan&layout=compact&theme=radical)
-
-## Most recent Projects
-
-Here are some of my notable projects:
-
-- [Quiz it](https://github.com/codeAKstan//quiz_it-project) - Quiz It is a dynamic platform that combines learning with fun. Our mission is to provide an engaging way for users to test their knowledge and earn rewards through interactive quizzes. 
-- [La_token](https://github.com/your-github-username/LA_token) - A cryptocurrency frontend project
-
+🌟 **My GitHub Stats:**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeAKstan&layout=compact&theme=dark)](https://github.com/codeAKstan)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeAKstan&show_icons=true&theme=dark)](https://github.com/codeAKstan)
 <a href="https://github.com/codeAKstan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codeAKstan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/codeAKstan"><img src="https://github-readme-activity-graph.vercel.app/graph?username=codeAKstan&theme=react-dark" alt="GitHub Commits Graph" /></a>
+📫 **Reach me:**  
+- 📧 Email: [boystanismoses@gmail.com](mailto:boystanismoses@gmail.com)  
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/codeAKstan)  
+- 🌍 Portfolio: [Portfolio](https://codeakstan.github.io/)
 
-## Work Experience
+👨‍🎓 **About Me:**  
+I started my journey as a software engineer with the ALX program, where I found my passion for backend development. I enjoy diving deep into algorithms, data structures, and designing scalable backend architectures. While I enjoy working with frontend occasionally, my core focus remains on building efficient server-side solutions.
 
-- **[Front-end developer]**, [Thynk Technology]  
-  *2023* – *june 2024*  
-  Took care of the designing of the frontend pages.
+### 🔍 **What I Am Looking For:**
+I’m currently seeking roles as a **Backend Developer** or **Full Stack Developer** where I can continue solving real-world problems and contribute to impactful projects.
 
+---
 
-## Education
-
-- **[BSC] in [CS]**, [University of Nigeria]  
-  *2023* – *present*
-- **[Software engineering]** - [ALX- Africa].
-   *2023* - *present*
-
-
-## Social Media
-Feel free to reach out to me through any of the platforms below:
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/codeAKstan)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/codeakstan)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://codeakstan.github.io/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:boystanismoses@gmail.com)
-
-
+⭐ _"I am passionate about coding, learning, and developing meaningful software solutions."_  
+🌐 [My GitHub](https://github.com/codeAKstan)
