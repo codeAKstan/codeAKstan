@@ -43,6 +43,7 @@ Graduating student from the ALX Software Engineering Program, passionate about b
 <a href="https://github.com/codeAKstan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codeAKstan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 📫 **Reach me:**  
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/codeakstan)
 - 📧 Email: [codeakstan@gmail.com](mailto:codeakstan@gmail.com)  
 - 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/codeAKstan)  
 - 🌍 Portfolio: [Portfolio](https://codeakstan.github.io/)
