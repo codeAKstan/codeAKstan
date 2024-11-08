@@ -40,7 +40,9 @@ Graduating student from the ALX Software Engineering Program, passionate about b
 🌟 **My GitHub Stats:**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeAKstan&layout=compact&theme=dark)](https://github.com/codeAKstan)  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeAKstan&show_icons=true&theme=dark)](https://github.com/codeAKstan)
-<a href="https://github.com/codeAKstan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codeAKstan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/codeAKstan">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeAKstan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 📫 **Reach me:**  
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/codeakstan)
