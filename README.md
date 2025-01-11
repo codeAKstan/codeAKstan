@@ -28,7 +28,7 @@ Graduating student from the ALX Software Engineering Program, passionate about b
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   
 - **Frameworks and Libraries:**  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
+  ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white)  
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   
