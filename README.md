@@ -1,62 +1,90 @@
-# 👨‍💻 **[Obumneme Anigbo - codeAkstan]** — _Backend Developer Enthusiast_
+# Obumneme Anigbo (codeAKstan) 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/codeAKstan?label=Follow%20me&style=social)](https://github.com/codeAKstan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codeAKstan)](https://www.linkedin.com/in/codeAKstan)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/codeakstan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-yellowgreen)](https://codeakstan.github.io/)
+> **Backend Developer** passionate about building robust systems and solving complex problems
+
+<div align="center">
   
-**Hello, I'm [codeAKstan]!**  
-Graduating student from the ALX Software Engineering Program, passionate about building robust backend systems and solving complex problems.  
+[![GitHub followers](https://img.shields.io/github/followers/codeAKstan?label=Follow&style=social)](https://github.com/codeAKstan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-codeAKstan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/codeAKstan)
+[![Twitter](https://img.shields.io/badge/Twitter-codeAKstan-1DA1F2?style=flat&logo=twitter)](https://x.com/codeakstan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Me-4CAF50?style=flat)](https://codeakstan.github.io/)
+[![Email](https://img.shields.io/badge/Email-codeakstan@gmail.com-D14836?style=flat&logo=gmail)](mailto:codeakstan@gmail.com)
+
+</div>
+
+## 👨‍💻 About Me
+
+I'm a recent graduate of the **ALX Software Engineering Program** with a specialization in Backend Development. My journey began with ALX, where I discovered my passion for server-side architecture, algorithms, and data structures. While I enjoy working with frontend technologies occasionally, my core focus remains on building efficient and scalable backend solutions.
+
+## 🛠️ Tech Stack
+
+<div align="center">
   
-🌱 **Currently working on:**  
-- **StudentHub** - A platform for students to find accommodations, buy, and sell items (🚧 _In Development_)  
-- **Quiz-it** - A quiz platform where users earn rewards for completing quizzes  (🚧 _In Development_)
-- More projects on [GitHub](https://github.com/codeAKstan?tab=repositories)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 🔭 Current Projects
+
+<div align="center">
+  
+| Project | Description | Status |
+|---------|-------------|--------|
+| **StudentHub** | A platform for students to find accommodations, buy and sell items | 🚧 In Development |
+| **Quiz-it** | A quiz platform where users earn rewards for completing quizzes | 🚧 In Development |
+
+</div>
+
+Explore more of my work on [GitHub](https://github.com/codeAKstan?tab=repositories).
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeAKstan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeAKstan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeAKstan&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🎓 Education & Certification
+
+- **ALX Software Engineering Program (Backend Specialization)** – *October 2024*
+  - [Certificate Validation Link](https://intranet.alxswe.com/certificates/EzrMcSJBYm)
+
+## 🔍 What I'm Looking For
+
+I'm currently seeking roles as a **Backend Developer** or **Full Stack Developer** where I can continue solving real-world problems and contribute to impactful projects. Open to remote opportunities and collaborative environments where I can grow as a developer.
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/codeakstan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codeAKstan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codeakstan.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeakstan@gmail.com)
+
+</div>
 
 ---
-  ### **CERTIFICATIONS**  
-- **ALX Software Engineering Program (Backend Specialization)** – ALX, October 2024  
-  [Certificate Validation Link](https://intranet.alxswe.com/certificates/EzrMcSJBYm)
 
----
+<div align="center">
   
-💻 **Tech Stack:**  
-- **Languages:**  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  
-- **Frameworks and Libraries:**  
-  ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  
-⚙️ **Tools & Technologies:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+⭐ *"I am passionate about coding, learning, and developing meaningful software solutions."* ⭐
 
-🌟 **My GitHub Stats:**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeAKstan&layout=compact&theme=dark)](https://github.com/codeAKstan)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeAKstan&show_icons=true&theme=dark)](https://github.com/codeAKstan)
-
-<a href="https://github.com/codeAKstan">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeAKstan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-📫 **Reach me:**  
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/codeakstan)
-- 📧 Email: [codeakstan@gmail.com](mailto:codeakstan@gmail.com)  
-- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/codeAKstan)  
-- 🌍 Portfolio: [Portfolio](https://codeakstan.github.io/)
-
-👨‍🎓 **About Me:**  
-I started my journey as a software engineer with the ALX program, where I found my passion for backend development. I enjoy diving deep into algorithms, data structures, and designing scalable backend architectures. While I enjoy working with frontend occasionally, my core focus remains on building efficient server-side solutions.
-
-### 🔍 **What I Am Looking For:**
-I’m currently seeking roles as a **Backend Developer** or **Full Stack Developer** where I can continue solving real-world problems and contribute to impactful projects.
-
----
-
-⭐ _"I am passionate about coding, learning, and developing meaningful software solutions."_  
-🌐 [My GitHub](https://github.com/codeAKstan)
+</div>
