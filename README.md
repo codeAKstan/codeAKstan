@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/codeAKstan?label=Follow&style=social)](https://github.com/codeAKstan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-codeAKstan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/codeAKstan)
 [![Twitter](https://img.shields.io/badge/Twitter-codeAKstan-1DA1F2?style=flat&logo=twitter)](https://x.com/codeakstan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Me-4CAF50?style=flat)](https://codeakstan.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Me-4CAF50?style=flat)](https://codeakstan.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-codeakstan@gmail.com-D14836?style=flat&logo=gmail)](mailto:codeakstan@gmail.com)
 
 </div>
