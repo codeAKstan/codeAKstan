@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/header-banner.png" alt="Obumneme Anigbo - Backend Developer" width="100%">
+  <img src="/codeAKstan.png" alt="Obumneme Anigbo - Backend Developer" width="100%">
   
   # Obumneme Anigbo (codeAKstan)
   
