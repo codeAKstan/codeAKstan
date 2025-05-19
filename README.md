@@ -74,7 +74,7 @@ I'm a recent graduate of the **ALX Software Engineering Program** with a special
       </td>
       <td width="50%" valign="top">
         <h3 align="center">Quiz-it</h3>
-        <img src="/quizit.png" alt="Quiz-it Preview" width="100%" />
+        <img src="/image.png" alt="Quiz-it Preview" width="100%" />
         <p>
           <a href="https://github.com/codeAKstan/quizit" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
