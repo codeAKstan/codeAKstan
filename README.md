@@ -60,17 +60,17 @@ I'm a recent graduate of the **ALX Software Engineering Program** with a special
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">StudentHub</h3>
-        <img src="/sh.png" alt="StudentHub Preview" width="100%" />
+        <h3 align="center">Swivly2.0</h3>
+        <img src="/sh.png" alt="Swivly Preview" width="100%" />
         <p>
-          <a href="https://github.com/codeAKstan/studenthub" target="_blank">
+          <a href="https://github.com/codeAKstan/Swivly2" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <a href="#">
             <img src="https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
           </a>
         </p>
-        <p><strong>Python, Django, MySQL, HTML/CSS, JavaScript</strong> - A platform for students to find accommodations, buy and sell items.</p>
+        <p><strong>Python, Django, Postgresql, NextJs</strong> - A platform for students to find accommodations, buy and sell items.</p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">Quiz-it</h3>
